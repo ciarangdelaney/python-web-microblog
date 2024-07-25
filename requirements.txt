@@ -1,0 +1,5 @@
+certifi
+Flask
+python-dotenv
+pymongo[srv]
+gunicorn
